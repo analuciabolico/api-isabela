@@ -17,7 +17,7 @@ Escrever programa, em qualquer linguagem de programação, que faça uma requisi
 https://api.codenation.dev/v1/challenge/dev-ps/generate-data?token=SEU_TOKEN
 Para encontrar o seu token , acesse a plataforma Codenation, faça o login e a informação estará na tela, conforme no exemplo abaixo:
 
-
+https://s3-us-west-1.amazonaws.com/codenation-cli/doc/images/token.png
 
 O resultado da requisição vai ser um JSON conforme o exemplo:
 
